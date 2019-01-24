@@ -1,0 +1,3 @@
+1,rj,nj,hcz|1233,500,large|1234,200,small|1233,300,middle|
+2,jz,sh,hcz|1232,504,large|1234,201,small|1235,302,middle|1237,1233,ooo|
+3,lj,bj,hcz|1235,302,middle!|1236,201,small!|
